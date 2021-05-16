@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Camilo Poma!
 
 - 🔭 I’m currently working on Pricing and Analytical models
 - 💬 Ask me about data visualization with python
