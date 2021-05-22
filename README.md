@@ -23,7 +23,7 @@ import dash
 import dash_bootstrap_components as dbc
 import vaex as vx
 
-df = vx.open('data_github.parquet)
+df = vx.open('data_github.parquet')
 
 app = dash.Dash(
     __name__,
