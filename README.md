@@ -11,7 +11,7 @@
 
 ## :boy: **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on Pricing and Analytical models
+- 🔭 I’m currently working on Instance Segmentation and Non Supervised Learning
 - 💬 Ask me about data visualization with python
 - ⚡ Fun fact: Data Analysis
 
